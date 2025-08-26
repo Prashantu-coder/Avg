@@ -1,3 +1,4 @@
+import streamlit as st
 import pandas as pd
 
 sheet_id = "1wu5nOv1xkv1BZpcGRC63ZDaWUUSiLiZ3WuxuBesXLEY"
