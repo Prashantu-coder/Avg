@@ -11,7 +11,6 @@ def load_google_sheet(sheet_id, gid):
 
 data = load_google_sheet(sheet_id, gid)
 
-print(data.head())
 
 html_table = data.to_html(index=False)
 
